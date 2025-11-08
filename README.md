@@ -1,3 +1,6 @@
+<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/255637b9-a1e5-4643-bcf4-21e6b9c4761f" />
+
+
 # 👋 Salut ! Je suis Imane Boujnane
 
 Développeuse Web & Mobile passionnée par la création d'applications innovantes. 🚀  
